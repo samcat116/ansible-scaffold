@@ -1,0 +1,2 @@
+# Ansible Scaffold
+scaffold
